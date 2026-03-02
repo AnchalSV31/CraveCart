@@ -91,6 +91,7 @@ CraveCart
 
 ### ▶ Backend Setup
 cd retail-ordering-backend
+
 mvn spring-boot:run
 
 Runs on:
@@ -99,7 +100,9 @@ http://localhost:8080
 
 ### ▶ Frontend Setup
 cd retail-ordering-frontend
+
 npm install
+
 npm run dev
 
 Runs on:
@@ -135,6 +138,7 @@ http://localhost:5173
 ## 👩‍💻 Author
 
 Anchal Shukla
+
 Computer Science Engineering Student
 
 ⭐ If you found this project useful, feel free to star the repository!
