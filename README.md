@@ -139,6 +139,6 @@ http://localhost:5173
 
 Anchal Shukla
 
-Computer Science Engineering Student
+
 
 ⭐ If you found this project useful, feel free to star the repository!
