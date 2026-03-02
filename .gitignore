@@ -1,0 +1,11 @@
+# Backend
+retail-ordering-backend/target/
+retail-ordering-backend/.mvn/
+retail-ordering-backend/.idea/
+
+# Frontend
+retail-ordering-frontend/node_modules/
+retail-ordering-frontend/dist/
+
+# Environment
+.env
